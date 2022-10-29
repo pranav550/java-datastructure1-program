@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;basic.fabinocci&apos; to &apos;fabinocci1&apos;&#x0D;&#x0A;- Original project: &apos;basic&apos;&#x0D;&#x0A;- Original element: &apos;basic.fabinocci&apos;&#x0D;&#x0A;- Renamed element: &apos;basic.fabinocci1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;fabinocci&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;basic{fabinocci.java[fabinocci" matchStrategy="1" name="fabinocci1" qualified="false" references="true" similarDeclarations="false" stamp="1667054920459" textual="false" version="1.0"/>
+</session>
